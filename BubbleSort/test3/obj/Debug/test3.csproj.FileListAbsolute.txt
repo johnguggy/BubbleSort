@@ -1,0 +1,7 @@
+C:\CC6\Labs\BubbleSort\test3\bin\Debug\test3.exe.config
+C:\CC6\Labs\BubbleSort\test3\bin\Debug\test3.exe
+C:\CC6\Labs\BubbleSort\test3\bin\Debug\test3.pdb
+C:\CC6\Labs\BubbleSort\test3\obj\Debug\test3.csprojAssemblyReference.cache
+C:\CC6\Labs\BubbleSort\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\CC6\Labs\BubbleSort\test3\obj\Debug\test3.exe
+C:\CC6\Labs\BubbleSort\test3\obj\Debug\test3.pdb
